@@ -1,5 +1,7 @@
 {
   "name": "IonicVideosAppSteven",
-  "integrations": {},
+  "integrations": {
+    "capacitor": {}
+  },
   "type": "vue"
 }
